@@ -1,6 +1,6 @@
 # image-service
 
-![image-service](https://github.com/tumakha/image-service/workflows/Scala%20CI/badge.svg)
+[![image-service](https://github.com/tumakha/image-service/workflows/Scala%20CI/badge.svg)](https://github.com/tumakha/image-service/actions)
 
 Image Service returns image with random distortion applied to each pixel in left half part.
 
